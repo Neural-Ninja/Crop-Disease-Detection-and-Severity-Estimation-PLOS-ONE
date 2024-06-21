@@ -46,3 +46,6 @@ Please follow our [contribution guidelines](CONTRIBUTING.md) and [code of conduc
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Note
+This repository is made for our research publication under PLOS-One Journal.
